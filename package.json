@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-ext-base-glinspace",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Fill a strided array with linearly spaced values over a specified interval.",
   "license": "Apache-2.0",
   "author": {
@@ -87,9 +87,6 @@
     "array",
     "ndarray"
   ],
-  "__stdlib__": {
-    "wasm": false
-  },
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"
